@@ -5,9 +5,9 @@ Solving one LeetCode problem every day for 50 days to prep for Data Science and 
 ## 📅 Progress Tracker
 
 - [x] Day 01 - [Two Sum](Day01_two_sum/)
-- [ ] Day 02 - [Add Two Numbers](Day02_add_two_numbers/)
-- [ ] Day 03 - [Longest Substring Without Repeating Characters](Day03_longest_substring_without_repeating_characters/)
-- [ ] Day 04 - [Median of Two Sorted Arrays](Day04_median_of_two_sorted_arrays/)
+- [x] Day 02 - [Add Two Numbers](Day02_add_two_numbers/)
+- [x] Day 03 - [Longest Substring Without Repeating Characters](Day03_longest_substring_without_repeating_characters/)
+- [x] Day 04 - [Median of Two Sorted Arrays](Day04_median_of_two_sorted_arrays/)
 - [ ] Day 05 - [Longest Palindromic Substring](Day05_longest_palindromic_substring/)
 - [ ] Day 06 - [Zigzag Conversion](Day06_zigzag_conversion/)
 - [ ] Day 07 - [Reverse Integer](Day07_reverse_integer/)
