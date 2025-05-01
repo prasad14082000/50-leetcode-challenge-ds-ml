@@ -14,6 +14,8 @@ Solving one LeetCode problem every day for 50 days to prep for Data Science and 
 - [x] Day 08 - [String to Integer (atoi)](Day08_string_to_integer_atoi/)
 - [ ] Day 09 - [Palindrome Number](Day09_palindrome_number/)
 - [ ] Day 10 - [Regular Expression Matching](Day10_regular_expression_matching/)
+- [x] Day 09 - [Palindrome Number](Day09_palindrome_number/)
+- [x] Day 10 - [Regular Expression Matching](Day10_regular_expression_matching/)
 - [ ] Day 11 - [Container With Most Water](Day11_container_with_most_water/)
 - [ ] Day 12 - [Integer to Roman](Day12_integer_to_roman/)
 - [ ] Day 13 - [Roman to Integer](Day13_roman_to_integer/)
